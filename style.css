@@ -1,0 +1,59 @@
+h1 {
+    font-family: sans-serif;
+    margin-top: -20px;
+    margin-left: 480px;
+    width: fit-content;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: sans-serif;
+}
+
+h2 {
+    margin-top: 40px;
+    margin-left: 120px;
+}
+
+h3 {
+    margin-top: -150px;
+    margin-left: 900px;
+    font-size: 24px;
+}
+
+.ik {
+    width: fit-content;
+}
+
+.idk {
+    margin-top: -5px;
+    margin-left: 820px;
+}
+
+.ik:hover {
+    color: rgba(30, 231, 23, 0.993);
+}
+
+.idk:hover {
+    color: rgba(207, 27, 27, 0.925);
+    margin-left: 820px;
+}
+
+button {
+    margin-left: 1270px;
+    padding: 2px;
+    border-color: black;
+    background-color: cornsilk;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+.light-theme{
+    color: black;
+    background-color: white;
+}
+
+.dark-theme {
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
