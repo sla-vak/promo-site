@@ -32,11 +32,13 @@ h3 {
 
 .ik:hover {
     color: rgba(30, 231, 23, 0.993);
+    transition: 0.6s;
 }
 
 .idk:hover {
     color: rgba(207, 27, 27, 0.925);
     margin-left: 820px;
+    transition: 0.6s;
 }
 
 button {
